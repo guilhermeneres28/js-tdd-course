@@ -1,1 +1,1 @@
-console.log('Fez merda');
+console.log('Fez merda')
